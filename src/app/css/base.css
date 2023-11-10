@@ -1,0 +1,9 @@
+@tailwind base;
+
+@font-face{
+    font-family: "Agbalumo";
+    src: url("../../components/fonts/Agbalumo.woff2");
+    font-display: block;
+    font-style: normal;
+    font-weight: 300 900;
+}
